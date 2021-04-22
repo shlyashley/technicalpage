@@ -10,5 +10,5 @@ I am a formal Professional Hairstylist so it was only fitting to create a hair m
 ## Live View
 [Click Me for Live View](https://xoshly.github.io/CHITechnicalPage/)
 
-## Contributors
+## Creator
 [@xoshly](https://twitter.com/xoshly)
